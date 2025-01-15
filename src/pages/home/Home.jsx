@@ -24,6 +24,8 @@ export default function Home() {
                 </div>
             </div>
             <div className="relative">
+                <img className="absolute top-[137px] left-[27px]" src="/home-1.svg" alt="home img" />
+                <img className="absolute top-[40px] right-[21px]" src="/home-2.svg" alt="home img" />
                 <img className="w-full" src="/home.svg" alt="home svg" />
             </div>
         </div>
